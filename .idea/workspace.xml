@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ba01f25-b7f7-4993-a076-6660d68a1271" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tt.py" beforeDir="false" afterPath="$PROJECT_DIR$/tt.py" afterDir="false" />
-    </list>
+    <list default="true" id="4ba01f25-b7f7-4993-a076-6660d68a1271" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/tt.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -91,7 +89,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="984000" />
+    <option name="totallyTimeSpent" value="1191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -127,7 +125,7 @@
     <entry file="file://$PROJECT_DIR$/tt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
     </entry>
