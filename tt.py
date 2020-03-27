@@ -9,3 +9,6 @@ def video():
 
 def chat():
     print('这是v3版本:聊天功能上线')
+
+def shangcheng():
+    print('这是v4版本:商城功能开发完成50%')
